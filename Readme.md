@@ -2,9 +2,13 @@
 
 ## Installation
 
-Install globally or run npx mytidbit-react-redux-app your-app-name
+Install globally or run through npx
 
 ```npm install -g mytidbit-react-redux-app```
+
+                  or
+
+```npx mytidbit-react-redux-app your-app-name```
 
 This is a package that installs react-scripts and does all things similar in behaviour with create-react app additionally giving redux boilerplate and eslint, typescript, thunk packages.
 
