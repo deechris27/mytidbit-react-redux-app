@@ -1,0 +1,26 @@
+{
+  "name": "mytidbit-react-redux-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "colors": "1.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "shelljs": "0.8.4"
+  },
+  "description": "boilerplate for react redux app with router and some rules and necessary settings",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "mytidbit-react-redux-app"
+  ],
+  "author": "Deepak <dd43029@gmail.com> (http://tidbit.c.la/)",
+  "license": "MIT",
+  "bin": {
+    "create-react-redux-router-app": "index.js"
+  }
+}
