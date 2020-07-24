@@ -1,5 +1,7 @@
 # mytidbit-react-redux--app
 
+[mytidbit-react-redux-app](https://www.npmjs.com/package/mytidbit-react-redux-app)
+
 ## Installation
 
 Install globally or run through npx
